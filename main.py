@@ -1,4 +1,3 @@
 print("program")
 print("boczna")
-programy = 1
-
+programy = 5
